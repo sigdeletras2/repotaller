@@ -1,7 +1,7 @@
 ---
 superuser: false
 authors:
-  - patricio-soriano
+  - manolo-trujillo
 title: Manolo Trujillo
 role: Socio de QGIS España
 bio: Geógrafo y Desarrollador Web
@@ -23,6 +23,4 @@ user_groups:
   - Socios
 ---
 
-Geógrafo “Full-stack” especializado en Tecnologías de Información Geográfica y geoinquieto 'cordobé'.
-
-Actualmente responsable del Área de SIG y Desarrollo en [Geoinnova](https://geoinnova.org/).
+Esto es una prueba
