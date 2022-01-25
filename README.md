@@ -1,2 +1,5 @@
 # repotaller
-repotaller
+
+## Asistentes
+
+- Patricio Soriano
