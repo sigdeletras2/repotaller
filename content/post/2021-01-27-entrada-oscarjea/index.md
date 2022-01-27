@@ -6,12 +6,13 @@ summary: Resumen del Taller
 draft: false
 featured: true
 authors:
-  - patricio-soriano
+  - oscar-cano
 tags:
   - QGIS
-  - actividad
+  - PostGIS- Postqresql
+  - Geoserver
 categories:
-  - Noticias
+  - Noticias sobre bases de datos espaciales
 image:
   filename: featured.png
   focal_point: TOPRIGHT
