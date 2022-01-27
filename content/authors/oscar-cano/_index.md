@@ -11,18 +11,13 @@ social:
     link: https://twitter.com/oscarjea84
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/patriciosorianocastro/
-  - icon: globe
-    icon_pack: fas
-    link: http://sigdeletras.com/
+    link: https://www.linkedin.com/in/%C3%B3scar-jes%C3%BAs-%C3%A1lvarez-cano-2a221645/
   - icon: github
     icon_pack: fab
     link: https://github.com/oscarjea
-email: pasoriano@gmail.com
+email: oscaralvarezcano@gmail.com
 user_groups:
   - Socios
 ---
 
-Geógrafo “Full-stack” especializado en Tecnologías de Información Geográfica y geoinquieto 'cordobé'.
-
-Actualmente responsable del Área de SIG y Desarrollo en [Geoinnova](https://geoinnova.org/).
+Ingeniero en Geomática y Topografía en el Servicio de Cartografía del Principado de Asturias
